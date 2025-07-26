@@ -1,3 +1,4 @@
 # apnarishabh-demo
 This is my first git repository
-Author - Rishabh Panwar
+<br>
+Author - <i>Rishabh Panwar</i>
